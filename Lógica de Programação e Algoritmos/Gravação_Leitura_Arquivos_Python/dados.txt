@@ -1,0 +1,4 @@
+Nome	Disciplina	Nota
+joao	matematica	9.5
+maria	fisica	9.0
+carlos	quimica	7.5

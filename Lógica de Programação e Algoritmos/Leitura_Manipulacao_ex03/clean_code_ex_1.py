@@ -1,0 +1,15 @@
+#codigo ruim
+a = float(input())
+b = float(input())
+c = float(input())
+d = float(input())
+x = (a + b + c + d) / 4
+
+if x >= 7:
+    print("OK")
+elif x >=5:
+    print("REC")
+else:
+    print("NO")
+
+    
